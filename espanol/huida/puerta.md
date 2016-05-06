@@ -1,5 +1,8 @@
-Te encuentras con un hombre con ropas extrañas y la cara tapada.
-Te pide dos monedas de oro a cambio de dejarte salir.
+En el túnel que lleva hacia la puerta
+el consejero se encuentra con un hombre alto, vestido con ropas extrañas
+que tenía la cara tapada.
+
+El extraño, le pide dos monedas de oro a cambio de dejarlo pasar.
 
 [Un presentimiento te dice que confies en él. Le das las dos monedas.](pagar/pagar.md)
 
